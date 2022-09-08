@@ -22,7 +22,7 @@ class AddNews extends Component {
                         <div className="row">
                             <div className="col-12">
                                 <div className="card p-4">
-                                    <h3 className="">Add the News for the Coustomers here!</h3>
+                                    <h3 className="">Add the News for the Coustomers here please!</h3>
                                     <div className="mt-3" style={{ border: "1px solid black", padding: '2px', minHeight: '400px' }}>
 
                                         <CKEditor
